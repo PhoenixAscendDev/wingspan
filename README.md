@@ -32,8 +32,17 @@ These materials are shared for **educational and reference purposes only.**
 All content is **copyright © Phoenix Ascend**.
 
 You may not reuse, remix, or redistribute these materials without written permission.
+---
+<h2>
+  <img src="docs/assets/pxa-circle-logo.png" width="20" alt="Phoenix Ascend Logo" style="vertical-align: middle;" />
+  About phoenix ascend
+</h2>
 
-For consulting, reuse, or licensing inquiries, contact:
+Wingspan is developed and maintained by [phoenix ascend](https://www.phoenixascend.com),  
+a software consultancy focused on clean architecture, developer clarity, and meaningful modular systems.
 
+**Crafting Software that Matters.**
+
+For branding, consulting, or licensing inquiries, contact:  
 📧 wingspan@phoenixascend.com  
 🌐 [phoenixascend.com](https://www.phoenixascend.com)
