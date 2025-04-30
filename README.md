@@ -12,13 +12,12 @@ This toolkit was forged in the real-world challenges of software delivery, legac
 Each tool in Wingspan was designed to answer a specific problem product leaders face in the wild:
 
 ### 📌 Templates
+
 | Tool | PDF | Walkthrough |
 |------|-----|-------------|
-| **OPPM (One Page Product Management)** | [Download PDF](templates/OPPMWorksheet_Template.pdf) | *(Coming Soon)* |
-| **Compass** | [Download PDF](templates/Compass_Template.pdf) | *(Coming Soon)* |
-| **Hi-Lo Gauge** | [Download PDF](templates/Hi-LoGuage_Template.pdf) | *(Coming Soon)* |
-| **MVP Canvas** | [Download PDF](templates/MVP_Canvas_Template.pdf) | *(Coming Soon)* |
-| **Sanity Check Template** | [Download PDF](templates/SanityCheck_Template.pdf) | *(Coming Soon)* |
+| **OPPM (One Page Product Management)** - *Visualize and align scope, timing, and priorities across multiple systems in one view.* | [Download PDF](templates/OPPMWorksheet_Template.pdf) | *(Coming Soon)* |
+| **Compass** – *Map MVP scope to delivery milestones based on real-world business constraints.* | [Download PDF](templates/Compass_Template.pdf) | *(Coming Soon)* |
+| **Hi-Lo Gauge** – *Assess system health, technical risk, and upgrade strategy in a visual dashboard.* | [Download PDF](templates/Hi-LoGuage_Template.pdf) | *(Coming Soon)* |
 
 ### 🛠 Strategy Docs
 - **The Loading Dock Strategy**  
